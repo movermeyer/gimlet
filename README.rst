@@ -5,9 +5,9 @@ Gimlet - Simple High-Performance WSGI Sessions
     :target: http://travis-ci.org/storborg/gimlet
 .. image:: https://coveralls.io/repos/storborg/gimlet/badge.png?branch=master
     :target: https://coveralls.io/r/storborg/gimlet
-.. image:: https://pypip.in/v/gimlet/badge.png
+.. image:: https://img.shields.io/pypi/v/gimlet.svg
     :target: https://crate.io/packages/gimlet
-.. image:: https://pypip.in/d/gimlet/badge.png
+.. image:: https://img.shields.io/pypi/dm/gimlet.svg
     :target: https://crate.io/packages/gimlet
 
 Scott Torborg - `Cart Logic <http://www.cartlogic.com>`_
